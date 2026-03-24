@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @jitabratosarkar
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python Projects
-- 📫 I'm available at email id - jitabratosarkar@gmail.com
+# Hi 👋, I'm Jitabrato Sarkar
 
-<!---
-jitabratosarkar/jitabratosarkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👨‍💻 About Me
+- 🎓 B.Tech CSE student at LPU
+- 🤖 Interested in AI, ML and NLP
+- 🌱 Currently learning Python & Cloud
+- 💡 I love building real-world projects
+
+## 🛠️ Skills
+- Python, C++, Java, C  
+- HTML, CSS  
+- Machine Learning, NLP  
+- Git & GitHub  
+
+## 🚀 Projects
+- Bengali RTI NLP System  
+- Event Reminder System  
+
+## 📫 Contact
+- Email: jitabratosarkar@gmail.com  
+- LinkedIn: https://linkedin.com/in/jitabrato  
